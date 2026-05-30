@@ -73,7 +73,7 @@ Runs wstunnel.exe with some parameters with in/out priority \<high\> but don't c
 
 Windows application has only 2 memory priority values: `Low` and `Normal`;
 
-3 in/out priority values: `Low`, `Normal` and `High`.
+3 in/out priority values: `Low`, `Normal` and `High`;
 
 and 6 CPU priority values: `Idle`, `BelowNormal`, `Normal`, `AboveNormal`, `High` and `Realtime`.
 
